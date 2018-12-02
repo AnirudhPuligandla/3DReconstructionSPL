@@ -1,2 +1,8 @@
 # 3DReconstructionSPL
 3D Reconstruction from Single Photon Lidar data using Compressed Sensing
+
+The files containing "test" in the name can be run to test the project with corresponding data.
+
+The rest of the files are all useful functions to run the code.
+
+Please read the thesis document or the presentation for details about the project.
